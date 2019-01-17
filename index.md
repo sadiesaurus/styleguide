@@ -39,7 +39,7 @@ Shopify’s documentation should reflect its intended audience. For any given do
 
 <table>
 	<tr>
-		<th width="25%">User type</th>
+		<th>User type</th>
 		<th>Relationship with Shopify</th>
 	</tr>
 	<Tr>
@@ -63,7 +63,7 @@ Each of these different users will likely have different expectations for the do
 
 <table>
 	<tr>
-		<th width="25%">User type</th>
+		<th>User type</th>
 		<th>What they want from the docs</th>
 	</tr>
 	<tr>
@@ -174,9 +174,9 @@ A reference chunk might look like this:
 
 <table>
     <tr>
-        <th width="20%">Attribute</th>
+        <th>Attribute</th>
         <th>Value</th>
-        <th width="20%">Default</th>
+        <th>Default</th>
     </tr>
     <tr>
         <td>`data-shop`</td>
