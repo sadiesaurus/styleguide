@@ -37,27 +37,11 @@ In keeping with Shopify culture, the docs team welcomes feedback on the technica
 
 Shopify’s documentation should reflect its intended audience. For any given doc, we can expect a wide spectrum of Shopify users who will encounter it:
 
-<table>
-	<tr>
-		<th>User type</th>
-		<th>Relationship with Shopify</th>
-	</tr>
-	<Tr>
-		<td>Prospective users</td>
-		<td>not signed up yet, possibly doing the free trial</td>
-	</tr>
-		<td>Novice users</td>
-		<td>they’ve signed up but they might not have sold online before, possibly not very computer-literate, new to Shopify concepts and workflow</td>
-	</tr>
-	<tr>
-		<td>Experienced, confident users</td>
-		<td>possibly been using Shopify for some time, familiar with the basic concepts and workflow, confident with computers, able to try some customization with guidance
-	<tr>
-		<td>Highly technical users</td>
-		<td>experienced confident users with extensive computing experience, who are happy to experiment and take risks; experienced problem-solvers. These users are expert learners and can often support themselves</td>
- 	</tr>
- </table>
-<br>
+User type | Relationship with Shopify
+----------| -------------
+Prospective users | not signed up yet, possibly doing the free trialNovice users | they’ve signed up but they might not have sold online before, possibly not very computer-literate, new to Shopify concepts and workflow 
+Experienced, confident users| possibly been using Shopify for some time, familiar with the basic concepts and workflow, confident with computers, able to try some customization with guidance
+Highly technical users | experienced confident users with extensive computing experience, who are happy to experiment and take risks; experienced problem-solvers. These users are expert learners and can often support themselves
 
 Each of these different users will likely have different expectations for the doc. Let's take a look at how that might play out:
 
